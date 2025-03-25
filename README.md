@@ -12,3 +12,9 @@ Access Control and Authentication: Authentication mechanisms, multi-factor authe
 Risk Management: Identification, evaluation, and prioritization of risks <br/>
 Network Security: Firewalls, IDS/IPS <br/>
 Operating Systems: Linux (Ubuntu, Kali), Windows Server <br/>
+
+Projects <br/>
+Raspberry Pi Network Monitoring Tool: Downloaded and configured applications like pi-hole, snort, and wireshark. <br/>
+Keylogger Application Hands on Lab: Established a backdoor into a system, initiated keylogger, viewed and deciphered logged keys to obtain sensative information. <br/>
+RAT Removal Hands on Lab: Identified, terminated, and removed a Remote Access Trojan from an infected system. <br/>
+
