@@ -7,12 +7,12 @@ Education <br/>
 Pasco-Hernando State College, Associates in Arts <br/>
 Fred K. Marchman Technical College <br/>
 Professional Experience <br/>
-Walmart <br/>
+_Walmart_ <br/>
 Digital Personal Shopper <br/>
 • Accurately pick, pack, and prepare items for online customer orders. <br/>
 •	Collaborate with team members to solve issues that arise. Whether it’s fixing a minor equipment issue or quickly adjusting to staffing changes. <br/>
 •	Handle customer feedback and address any issues related to product quality, order accuracy, or delivery times. <br/>
-Blaze Pizza <br/>
+_Blaze Pizza_ <br/>
 Team Member <br/>
 •	Greet customers and assist them in placing orders, providing information on menu items, and offering recommendations. <br/>
 •	Work as part of a team to prepare and serve food in a fast-paced environment, ensuring efficiency and smooth coordination during peak hours. <br/>
